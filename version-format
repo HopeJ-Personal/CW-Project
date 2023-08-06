@@ -1,0 +1,25 @@
+The version format for the CW Project otherwise known as "Creative Witchcraft SMP"! Inside the changelogs, you will find folders
+- The versions are formatted by 3 values (X.Y.Z(ru))
+    X - The first value `X` is the release type, this value can be one of three main types; Of these three there is Alpha, Beta,
+    and Release.
+
+        Alpha (1) - In general, an alpha version or release of an "early access" mod pack intends to do something particular,
+                    and mostly does so, yet is not guaranteed to do so fully but is functional enough for release.
+
+        Beta (2) - A beta release is the alpha version of the product for the mod maker is satisfied with the condition the product
+                   is in, and is less likely to get major updates to fix existing stuff and is likely in final QA Iterations before
+                   release.
+
+        Release (3) - A release is the distribution of the final version or the newest version of a mod pack/mod. Generally speaking
+                      the mod pack is a modification of the latest beta and from that point on will be finalized and refined
+                      updates are found.
+    
+    Y - The second value found in the tenth's place is `Y` and represents the large updates or in other words finalized changes that
+        likely will not be changed in large ways in a while and can be expected to stay or at least not be removed entirely.
+    
+    Z - The last value found in the hundredths' place is `Z` and represents the sub-version; within the sub-version, you can see
+        smaller changes such as quality of life, small changes, backend fixes, patches, balancing, and community-requested changes.
+    
+    ru - RU while not being in every release version is just a way to separate reuploads for issues like corruption or backups and
+         and can generally changelogs are generally blank but still are considered "latest versions" as they still can contain
+         uncategorized changes.
